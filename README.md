@@ -1,10 +1,12 @@
 # nbaanalysis
 
-
 I last worked on this project in Spring '19 with my team in one of our classes, Elements of Data Analytics. Since then, we haven't been able to run the jupyter notebooks because our access to Darwin SDK is no longer active. I'd like to recreate the models we made with other packages like scikit-learn in the future.
----
+
 Group 3 - Ethan Fuerst, Pierce Kotarski, Austin Jiang, Shirel Miller
+
 Can we predict playoff outcome from regular season data?
+
+**Files in this repository:**
 
 nba_data.csv - The raw dataset, we run three different models on this dataset
 2019_season.csv - Regular season data from this year, we run this through each of the three models to see what our model predicts for this year
