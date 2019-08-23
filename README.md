@@ -43,3 +43,7 @@ All other files are various training and testing .csv files
 *train_out.csv*
 
 *train_std.csv*
+
+**TODO:**
+
+- [ ] create a tableau dashboard and link in readme
