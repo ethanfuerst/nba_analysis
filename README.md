@@ -48,4 +48,8 @@ All other files are various training and testing .csv files
 
 - [ ] research models in scikit learn
 
+    status: pinpointing what models were used in Darwin SDK analysis
+
 - [ ] do more exploratory analysis on past NBA seasons
+
+    status: thinking about more ways to analyze and compare the nba seasons
