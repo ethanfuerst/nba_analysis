@@ -18,7 +18,7 @@ Can we predict playoff outcome from regular season data?
 
 *bbal_std.ipynb* - Data is standardized for each season
 
-*bball_out.ipynb* - This data has all the original columns from nba_data.csv. In the other two notebooks, some columns we thought were redundant have been removed. Note: this notebook has been run since Darwin access was removed, so I'm going to try to find a version of it that hasn't been run since then.
+*bball_out.ipynb* - This data has all the original columns from nba_data.csv. In the other two notebooks, some columns we thought were redundant have been removed.
 
 *norm_2019.csv* - Data after it had been normalized by bball_norm.ipynb
 
@@ -47,7 +47,5 @@ All other files are various training and testing .csv files
 **TODO:**
 
 - [ ] research models in scikit learn
-
-- [ ] find version of bball_out.ipynb that hasn't been run since the Darwin access had been removed
 
 - [ ] do more exploratory analysis on past NBA seasons
