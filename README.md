@@ -46,10 +46,10 @@ All other files are various training and testing .csv files
 
 **TODO:**
 
-- [ ] research models in scikit learn
+- [ ] Research models in scikit learn
 
-    status: pinpointing what models were used in Darwin SDK analysis
+    Status: Pinpointing what models were used in Darwin SDK analysis
 
-- [ ] do more exploratory analysis on past NBA seasons
+- [ ] Do more exploratory analysis on past NBA seasons
 
-    status: thinking about more ways to analyze and compare the nba seasons
+    Status: Thinking about more ways to analyze and compare the nba seasons
