@@ -28,28 +28,11 @@ Can we predict playoff outcome from regular season data?
 
 All other files are various training and testing .csv files
 
-*test.csv*
-
-*test_norm.csv*
-
-*test_out.csv*
-
-*test_std.csv*
-
-*train.csv*
-
-*train_norm.csv*
-
-*train_out.csv*
-
-*train_std.csv*
+test.csv, test_norm.csv, test_out.csv, test_std.csv, train.csv, train_norm.csv, train_out.csv, and train_std.csv
 
 **TODO:**
 
 - [ ] Research models in scikit learn
-
-    Status: Pinpointing what models were used in Darwin SDK analysis
-
+  - [ ] Pinpointing what models were used in Darwin SDK analysis
 - [ ] Do more exploratory analysis on past NBA seasons
-
-    Status: Thinking about more ways to analyze and compare the nba seasons
+  - [ ] Thinking about more ways to analyze and compare the nba seasons
