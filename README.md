@@ -1,4 +1,4 @@
-# nbaanalysis
+# nba_analysis
 
 I last worked on this project in Spring '19 with my team in one of our classes, Elements of Data Analytics. Since then, we haven't been able to run the jupyter notebooks because our access to Darwin SDK is no longer active. I'd like to recreate the models we made with other packages like scikit-learn in the future.
 
